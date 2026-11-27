@@ -3,7 +3,7 @@
 **Power BI Developer · BI Analyst** · Bengaluru, India
 
 I turn multi-source business data into Power BI reporting that leaders trust. I have 9+ years in reporting and analytics,
-4+ of them building enterprise Power BI end to end, currently for **Honeywell Aerospace engineering operations**
+4+ of them building enterprise Power BI end to end (40+ dashboards built and maintained), currently for **Honeywell Aerospace engineering operations**
 (via LanceSoft), and before that for **Amazon and Flipkart e-commerce** at Georgian Enterprises.
 
 🌐 **Portfolio:** [navneet2394.github.io](https://navneet2394.github.io) &nbsp;·&nbsp;
@@ -35,8 +35,8 @@ I turn multi-source business data into Power BI reporting that leaders trust. I 
 #### Career at a glance
 | Years | Role | Focus |
 |---|---|---|
-| 2026 – now | Senior Data Analyst (Power BI) · LanceSoft / Honeywell Aerospace | 25+ dashboards for engineering operations: workforce & capacity, programs & quality, CAPEX/OPEX, PR/PO |
-| 2022 – 2026 | Senior Data Analyst · Georgian Enterprises | Power BI & Looker Studio across Amazon and Flipkart; KNIME ETL and SQL data marts; −40% manual reporting, −13% PPC spend |
+| 2026 – now | Senior Data Analyst (Power BI) · LanceSoft / Honeywell Aerospace | 15+ Power BI dashboards for engineering operations: workforce & capacity, programs & quality, CAPEX/OPEX, PR/PO |
+| 2022 – 2026 | Senior Data Analyst · Georgian Enterprises | 25+ Power BI & Looker Studio dashboards across Amazon and Flipkart; KNIME ETL and SQL data marts; −40% manual reporting, −13% PPC spend |
 | 2016 – 2021 | MIS Specialist / MIS Executive · Optimize IT Systems, Stesalit Systems | KPI and management reporting, Excel & Power Query automation, −20% reporting errors |
 
 <sub>All project data in my public repositories is synthetic. No employer or client data is published.</sub>
